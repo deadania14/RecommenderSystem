@@ -1,12 +1,9 @@
 ## Files
 
-* data_munging.ipnyb : preparation step
-* movlenspandas.ipynb : knn and matrix factorization using movielens data
-* amazon recomendation system.ipnyb : belum matang
-* similarity.ipynb : konsep similarity menggunakan data ml-100lk (movielens)belum sampai selesai
+* data_processing.ipnyb : separate unwanted column and rows in dataset, remove duplicate data, create id. 250 rows of data 
+* sentiment_analysis.ipynb : training 1000 rows, cleaning data(stopwords, character, short words, lower case)
 
 ## Folders
-* data : data bentuk csv yang digunakan
-* ml-100k : data movie lens
-* practice : file latihan dan data yang digunakan latihan
-* recsysproj : inisialisasi project untuk prototype
+* data : all dataset use in this project
+* practice : practice files
+* recsysproj : initialization project for prototype with django
