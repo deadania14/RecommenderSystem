@@ -1,22 +1,63 @@
-,Unnamed: 0,itemId,userId,rating,class,comment,label,check_label
-2,2,1,3,2.5,2.0,"Didnt know how much i'd use a kindle so went for the lower end. im happy with it, even if its a little dark",1.0,False
-9,9,1,10,3.0,3.0,"It's beyond my expectation, and it can even show music score. Not fast turning though.",1.0,False
-22,22,3,23,3.0,3.0,A lazy mans drean when it is combined with Alexa. If you get the harmony hub you can really impress with home automation,2.0,False
-65,65,7,66,2.5,3.0,"UI is not smooth, it flickers sometimes. Overall a thumbs up from me",1.0,False
-70,70,9,71,3.0,3.0,"My 3 and 2 year old download their own games.Easy to set up and get working. Thanks to parental Control, I know what they are downloading",2.0,False
-116,116,12,117,1.5,1.0,Not too satisfied with the sound and it loses Bluetooth connection no matter what phone I use (either Iphone or Android).,2.0,False
-118,118,12,119,3.0,3.0,I love it it does everything I want can't believe how great it is,1.0,False
-120,120,12,121,2.0,2.0,"Alexa works great, but the the sound quality of this speaker is terrible, your much better off with a echo dot and bose sound link mini set up.",3.0,False
-126,126,13,127,3.0,3.0,"Bought an IPad and didn't like it. Returned it and got the Fire 10.1. This is my third Fire, love it....no.learning curve.",2.0,False
-132,132,13,133,3.0,3.0,"This tablet is certainly large which makes it cumbersome when reading in a reclining position. However, its terrific for reading or watching films on a plane, desk or otherwise sitting up.",2.0,False
-141,141,14,142,1.0,1.0,This is not an upgrade by any means! My three year old kindle outperformed Oasis.Battery life better than a week with the lights on lowest setting Magnetic connector is poorly designed and grows weak Two pieces to keep up with,2.0,False
-147,147,15,148,3.0,3.0,"so far so good,,,, wife very happy. misses her old one....",2.0,False
-157,157,16,158,2.5,3.0,"This was bought to replace my old Kindle with keypad, and experimental internet. Was surprised how much the Kindle had changed, and at the same price as my old one was when I bought it!Have already shown it to a couple of friends who now say they are thinking about getting one.",2.0,False
-158,158,16,159,3.0,3.0,outstanding replacement tablet for my outdated and overpriced iPad 2,2.0,False
-162,162,16,163,1.0,1.0,"This Kindle is so overloaded with apps that I will never use. Despite what one of Best Buys' associates said, you cannot remove any of the Amazon apps. The apps take up too much of the memory. I have an I Pad and love but bought this as a backup for work. Unfortunately, it bogs down. I also don't like that Amazon wants access to too much info to set up email, so I won't use this for emails either. I will likely sell it on Craig's List for less than half of what I paid for it.",3.0,False
-179,179,18,178,3.0,3.0,i needed something to read in the sunlight other than fire hd,1.0,False
-184,184,18,183,2.5,2.0,"I purchase this for my wife; it work well but I think that this version es too expensive, the difference is a light",3.0,False
-201,201,19,199,3.0,3.0,this is my second one and must have one of these at all times,2.0,False
-220,220,21,211,2.0,1.0,meh. it works. i find it difficult to navigate. i also have an ipad mini. this seems to be less intuitive than the ipad.,3.0,False
-224,224,22,214,3.0,2.0,Only negative is the apps. Thought they were from android but they're an Amazon version and limited.,1.0,False
-247,247,23,232,3.0,3.0,For those that have Prime this is almost a must have. Keeps all your Amazon stuff in one place.,2.0,False
+,Unnamed: 0,rating,human,testimony,itemId,userId,testimony_value,check_label
+7,4999,2.0,3,"this is a steal, have 8 gb model as well.This has more punch..",19,764,1.0,False
+14,4719,2.0,2,I bought this as an affordable alternative to the iPad mini. I liked the expandable storage option and size. Super easy to use. Unfortunately granddaughter wanted and iPad mini to go with her other apple products. So I ended up returning it. In hindsight I should've kept it for myself.,1,3582,3.0,False
+36,4820,2.0,2,"Not to big, not to small. Just right for for taking your movies and music on the go. I bought this to go with my Amazon Prime membership. Popped in a 128 Gb mini sd card for plenty of storage.",17,3445,3.0,False
+38,2965,1.0,3,Great tablet other than the photo image quality is fuzzy and not the best.,5,2040,1.0,False
+46,2731,2.0,2,It was all that my grandson wanted and didn't have to search everywhere to find it.,8,1043,3.0,False
+56,1927,1.5,2,"I was completely under the impression that this tablet was child friendly but there are no built in restrictions so my son was able to purchase numerous apps and movies. My son usually uses my wife's ipad so I thought this tablet would be a good replacement but the interface is geared towards adults not a young child. If you buy this tablet, IMMEDIATELY change the settings to require a PIN to make purchases.I think the age recommendation should be 5+ not 3+.",2,2935,3.0,False
+57,1692,1.5,2,You get what you pay for Was not to happy but for a 2 year old it's ok,7,3352,1.0,False
+58,4088,1.0,3,I purchased this when my last tablet died. It meets all basic needs and the price was great.,20,715,2.0,False
+60,3674,1.0,2,"was cheap, can not run chrome stuff, returned to store.",20,1272,3.0,False
+63,3984,1.0,1,"I got this for reading books, I still like ipad better though.",20,3481,3.0,False
+67,4204,2.0,3,"No complaints. I just wish it played .avi, but that is not really a huge problem",20,3614,2.0,False
+79,3266,2.0,3,upgraded from a previous model and cannot be happier,4,2540,2.0,False
+84,4709,1.0,3,"Bought this for my wife. She is a constant reader and put away her previous Kindles for this one. She now has internet access also, so she can find more books anytime she wants.",1,970,2.0,False
+91,4726,1.0,3,Got this tablet for my spouse who has never had one before and it's perfect for him!,1,3245,1.0,False
+93,2051,1.0,3,The color is what got me and the features was on point. The screen shows a lot of different displays. To share for now until the next one.,2,1190,2.0,False
+98,2698,1.0,1,It takes a little getting used to if you are used to Android,2,1387,2.0,False
+99,2789,2.0,3,Child loves it. Can be used for more than just a time killer. Can learn from it.,2,2532,2.0,False
+102,1889,2.0,3,The tablet is okay.. my daughter uses it most of the time.,2,1999,2.0,False
+107,2437,1.0,1,Worst product ever. Constantly screwing up and filled with ads you have to pay to remove. Best Buy refused to help when I wanted to return it,8,145,2.0,False
+122,1688,1.0,1,"I like the tablet; however, there are occasions when it does not boot up when it is turned on. I probably need to take it into the store so that a determination can be made and it can be fixed.",8,2076,3.0,False
+129,4721,1.5,1,"In my opinion it's very slow for internet use. Good for our 5 yr old to use but we purchased this for her to do online curriculums, which is almost impossible to do with this tablet because of the speed. Our internet connection is great with every other laptop and computer in the house.",1,1647,2.0,False
+137,3829,2.0,3,The Amazon fire is simply amazing I would not buy anything else.,20,2695,2.0,False
+138,3770,1.0,3,Awesome.and repeat 50 times. That should do it. Blah.,20,2317,1.0,False
+153,2014,2.0,1,I bought two of these for Christmas for my 3 and 4 year old and they love them! Easy to navigate and it keeps them busy and interested for hours. Sturdy protective bumper protector keeps your kids Kindle safe. The only complaint I have is the charger doesn't stay snug and one is already useless because it won't fit tight enough to charge. This isn't a problem with this Kindle but maybe all of them. I bought my oldest son a regular Kindle fire the same day and his charger is worthless now too. Not quite sure what the problem is with them.,2,2583,3.0,False
+156,4969,1.0,3,Would have gotten 5 stars but the screen is to light when put on dark screen for reading. All the adds make it feel cluttered but that might just be me. Over all for price it is a nice ereader.,19,3728,2.0,False
+158,2343,1.5,2,"It's great for beginners, like children, but very limiting for me. I can't use many apps because it doesn't allow me to use the Google play store.",8,1310,3.0,False
+161,4094,2.0,3,"Have a nook , this is much better has more apps and thru amazon",20,1989,2.0,False
+168,3871,1.0,3,For the price guy cannot beat it great for watching videos or streaming television.,20,2955,1.0,False
+169,4908,2.0,3,For those that have Prime this is almost a must have. Keeps all your Amazon stuff in one place.,19,1477,2.0,False
+174,2955,1.0,1,My only problem with this tablet is if you don't have internet you lose the pictures of the games you have installed and you have to guess to open them.,7,3393,2.0,False
+184,2142,2.0,2,Bought this for a gift for some one who's old tablet won't work. Just the right size to play games on.,8,1827,1.0,False
+189,2332,2.0,3,I got this because it is almost impossible to break,2,1005,2.0,False
+197,3955,2.0,2,This was a surprise when we opened it up! Bright and colorful!!,20,672,3.0,False
+198,2591,1.5,2,"I purchased this since I bought my grandson this tablet for Christmas. The tablet is slow, considering price that's OK.I have problems with the charger, it won't charge when I am using the tablet, the charger needs to be plugged in and not moved for it to charge.For the price the tablet is OK.",8,3756,1.0,False
+200,2593,1.0,1,It's nice but not as easy to switch profiles as I would like for it being a child's tablet. But overall easy to use just a lot of junk on main profile.,7,3348,3.0,False
+204,1574,1.0,1,"Would not take a charge, good thing i tried before wrapping it for Christmas.",7,1493,3.0,False
+205,4219,2.0,1,"Perfect for basic stuff, games and media. Reading, too.",20,3322,3.0,False
+217,2985,1.0,3,"WISH the kindle fire (for kids) had better way to limit how many items you can download at once. Most kids do not understand that clicking on a bunch of pictures will download that game/program, which is CLOG download times. Needs a better way to remove unwanted items, rather than clicking.. and clicking on every item. Speed and performance is pretty good for a tablet. App store is great and has many items.",2,2429,1.0,False
+230,2010,2.0,3,"I was a slightly skeptical about giving this to my 1 year old but it has been a fantastic, durable learning tool for him and he is progressing very quick.",2,91,2.0,False
+234,1624,1.0,2,You can't do better for$60. My only concerns is the battery life could be a bit better and it has a cheap plastic feel to it. Great for light browsing and Kindle reading though.,8,1825,3.0,False
+256,3985,1.0,3,Does the trick. This is a good tablet for the price.,20,2116,2.0,False
+265,3264,2.0,2,The store representative took his time with me to choose the right size and the lady at the check out got me hooked up with Best Buy Program membership.,4,667,3.0,False
+266,1810,1.0,1,"The touch and loading the content is very bad, it doesn't respond quickly and it very slow",2,3440,2.0,False
+286,1781,1.0,2,Good tablet but no YouTube kids like on iPhone. Don't expect iPhone/pad quality very basic AppStore for children,2,711,3.0,False
+289,3730,2.0,2,Just the right size for reading books and playing some games.,20,3594,3.0,False
+318,2497,1.0,2,I bought this because I have ebooks in college. Not only could I not get my ebook. I called the school IT department. They could not either. My semester was already started. The sales representative at the store told me this is what I needed. I ended up buying a tablet from my phone carrier and my ebooks were right there in less than 5 minutes with the schools IT department help.,15,28,3.0,False
+325,1687,1.5,2,"Overall it is a good tablet, but I am not a fan of the limitations of the silk browser and Amazon app store.",8,1985,3.0,False
+330,3694,1.0,1,"The only thing that I don't like about it is that the screen is not made to be seen in the sunlight. If I wanted to take it to the beach or poolside to read, I would not be able to see it in the sunlight. Otherwise it is terrific!",20,452,3.0,False
+339,2002,2.0,3,My old kindle had no camera and was much thicker. This one has a great camera and is much slimmer.,8,2932,2.0,False
+347,3290,1.5,2,For books games and internet it's perfectSound is a ittle weak,4,1162,1.0,False
+357,3568,1.0,1,Only problem is that it is impossible to read or do anything on the KindleFire with any light in the room at all,20,430,2.0,False
+415,4187,1.5,1,"The specs are good, feels solid, can't stand the OS. Too many ads you can't get rid of, not as customizable as I'd like. If that doesn't bother you, it's a good tablet for the price. Don't expect to run games on it, not powerful enough for that.",20,2677,3.0,False
+418,2124,2.0,3,This is my second Kindle. The first was a gift several years ago. The display and speed are much better.,8,1655,2.0,False
+425,4934,2.0,2,Smaller overall size with the same screen size of our older kindle fire. Faster processor.,19,240,3.0,False
+426,4997,1.0,1,Purchased this for my son. Has room to upgrade memory to allow more books & games. But the speakers could be better or located in a better position.,19,2533,2.0,False
+442,2902,1.0,1,"So I bought my little guys these tablets... so that I could repossess my IPad. Love the free time app but who could've imagined they wouldn't play NETFLIX!! So now... I'm out the money for the tablet and still don't have my iPad back... and yes, I called Amazon numerous times... they work after the fix, but the next time they go to use them they don't work again... the fix takes several minutes as it's force stopping the app, clearing cache then doing a hard restart... then you have to wait to restart Netflix.... oh and sometimes you have to do it numerous times before it works... if it works at all",7,3344,3.0,False
+446,4182,1.0,3,amazon tablet is great. no google bloatware. everything is amazon. one thing i didnt like was. ads on the lock screen and no way to turn off.,20,3591,2.0,False
+450,1913,1.0,1,It takes forever to download apps. I'm returning it will be getting something else.,2,2380,2.0,False
+457,2224,1.0,1,"I bought 2 of the Amazon Fire tablets because the sales guy said that they were great and ran really fast. I have very fast internet and this thing just barely chugs along. If you play a game, it constantly stalls and freezes. The sound quality when I play music is terrible. I was planning on buying one for each of my 9 nieces and nephews if they ran well but now I know that wouldn't work for them because they are horrible.",8,2725,3.0,False
+463,3223,2.0,3,"Excellent value priced 10"" tablet. To bad Amazon killed it. I purchased it as a gift for my wife and she loves the size and quality of the display.",4,1564,2.0,False
+468,2494,2.0,3,"Purchased this as a gift for my wife because her B&N Nook was dying. She absolutely loves it, especially since it does so much more. I'm now waiting for my Nook to start acting up so that I have an excuse to get a Kindle for myself.",15,152,1.0,False
+475,3903,2.0,3,Much better screen resolution than my 7 inch fire.,20,1718,2.0,False
