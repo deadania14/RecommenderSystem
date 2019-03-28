@@ -1,0 +1,43 @@
+{% load staticfiles %}
+<html>
+
+<head>
+    <title>{% block title %}{% endblock%}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,
+    user-scalable=no">
+
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+
+
+</head>
+<body>
+  <nav class="navbar-new" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+          <h1>Recommendation Engine</h1>
+				</div>
+			</div>
+		</nav>
+
+    <div class="container">
+        <div class="row">
+            {% block content %} {% endblock %}
+        </div>
+    </div>
+  </div>
+    <!-- Footer -->
+      <footer>
+          <div class="container">
+              <div class="row">
+                  <div class="col-sm-7 footer-copyright wow fadeIn">
+                      <p>Copyright 2019 Indonesia - All rights reserved. Template by Dea.</p>
+                  </div>
+              </div>
+          </div>
+      </footer>
+
+    {% block script %}
+    {% endblock %}
+</body>
+</html>

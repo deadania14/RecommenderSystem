@@ -1,8 +1,6 @@
 from django.db import models
-from django.utils import timezone
 from .validator import validate_file_extension
 import datetime
-
 
 # Create your models here.
 def reviews_directory_path(instance, filename):
@@ -13,4 +11,3 @@ class Reviews(models.Model):
     user_set =  models.FileField( upload_to=reviews_directory_path, validators=[validate_file_extension])
     testing_set = models.FileField( upload_to=reviews_directory_path, validators=[validate_file_extension])
     note = models.CharField(max_length=200, blank=True, null=True)
-    date = models.DateTimeField(default=timezone.now)

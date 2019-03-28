@@ -21,8 +21,7 @@ from django.conf.urls.static import static
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'', include('general_user.urls', namespace='gen_user')),
-    url(r'^administrator/', include('admin_user.urls', namespace='adm_user')),
+    url(r'', include('recommendersys.urls', namespace='recsys')),
 ]
 if settings.DEBUG:
     urlpatterns+= static(settings.STATIC_URL,document_root=settings.STATIC_ROOT)
