@@ -70,7 +70,7 @@ ptyprocess==0.6.0
 py4j==0.10.7
 pycryptodome==3.8.0
 pyenchant==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pyparsing==2.3.0
 pyspark==2.4.0
 python-dateutil==2.7.5
