@@ -72,7 +72,7 @@ pycryptodome==3.8.0
 pyenchant==2.0.0
 Pygments==2.2.0
 pyparsing==2.3.0
-pyspark==2.4.0
+pyspark==3.2.2
 python-dateutil==2.7.5
 python-docx==0.8.10
 pytz==2018.7
